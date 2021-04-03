@@ -31,17 +31,12 @@ sidebar:
       - idiom: Chinese
         level: Native
 
-    interests:
-      - item: Guitar
-        link:
-
-      - item: Basketball
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
-      
+      I am PhD student at University of Southern California. My primary research work at USC is automated software architectural complexity analysis of mobile and web applications. Before my PhD study, I obtained my MS degree from University of Southern California and BS degree from
+    Changchun University, both in computer science. 
+
 news:
     title: News
     intro: |
@@ -49,7 +44,7 @@ news:
     
     posts:
         - time: March 2021
-          title: Defending my PhD Thesis.
+          title: Defended my PhD Thesis - Incremental Effort Estimation via Transaction Analysis 
 
 education:
     - degree: PhD in Computer Science
@@ -171,7 +166,37 @@ publications:
       
 
     papers:
-      - 
+      - title: "Effort Estimation of Open Source Android Projects via Transaction Analysis"
+        authors: Kan Qi, Barry Boehm
+        conference: Journal of Software - Evolution and Process (JSEP 2020)
+
+      - title: "Process-driven Incremental Effort Estimation (Best Paper Award Runner-up)"
+        authors: Kan Qi, Barry Boehm
+        conference: International Conference on Software and Systems Process (ICSSP 2019)
+
+      - title: "Calibrating Use Case Points using Bayesian Analysis"
+        authors: Kan Qi, Anandi Hira, Elaine Venson, Barry Boehm
+        conference: International Symposium on Empirical Software Engineering and Measurement (ESEM 2018)
+
+      - title: "UMLx: A UML Diagram Analytic Tool for Software Management Decisions (Poster Paper)"
+        authors: Kan Qi, Barry Boehm
+        conference: International Conference on Software Engineering (ICSE 2018)
+
+      - title: "Detailed Use Case Points (DUCPs): A Size Metric Automatically Countable from Sequence and Class Diagrams"
+        authors: Kan Qi, Barry Boehm
+        conference: International Workshop on Modelling in Software Engineering (MISE 2018)
+
+      - title: "The Parallel Agile Process: Applying Parallel Processing Techniques to Software Engineerings"
+        authors: Doug Rosenberg, Barry Boehm, Bo Wang, Kan Qi
+        conference: Journal of Software - Evolution and Process (JSEP 2018)
+
+      - title: "A Light-weight Incremental Effort Estimation Model for Use Case Driven Projects"
+        authors: Kan Qi, Barry Boehm
+        conference: Software Technology Conference (STC 2017)
+
+      - title: "Rapid, Evolutionary, Reliable, Scalable System and Software Development: The Resilient Agile Process (Best Paper Award)"
+        authors: Doug Rosenberg, Barry Boehm, Bo Wang, Kan Qi
+        conference: International Conference on Software and Systems Process (ICSSP 2017)
 
 skills:
     title: Skills &amp; Proficiency
