@@ -24,17 +24,11 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Fluent
-
-      - idiom: Chinese
-        level: Native
 
 career-profile:
     title: Career Profile
     summary: |
-      I am PhD student at University of Southern California. My primary research work at USC is automated software architectural complexity analysis of mobile and web applications. Before my PhD study, I obtained my MS degree from University of Southern California and BS degree from Changchun University, both in computer science. 
+      I am a PhD student at University of Southern California. My primary research work at USC is automated software architectural complexity analysis of mobile and web applications. Before my PhD study, I obtained my MS degree from University of Southern California and my BS degree from Changchun University, both in computer science. 
 
 news:
     title: News
@@ -43,7 +37,7 @@ news:
     
     posts:
         - time: March 2021
-          title: Defended my PhD Thesis - Incremental Effort Estimation via Transaction Analysis 
+          title: Defended My PhD Thesis - Incremental Effort Estimation via Transaction Analysis 
 
 education:
     - degree: PhD in Computer Science
@@ -74,17 +68,18 @@ educationcomplete:
           - Software Development Effort Estimation and Prediction
           - Markov Chain Monte Carlo Methods for Accuracy Optimization
 
-    - degree: Master Degree
+    - degree: Master Degree in Computer Science
       university: University of Southern California
       time: 2013 - 2015
       details: |
         Master degree in Computer Science
     
-    - degree: Bachelor Degree
+    - degree: Bachelor Degree in Computer Science
       university: Changchun University
       time: 2009 - 2013
       details: |
-        Bachelor degree in Computer Science
+        Supportive pervasive computing for hearing impaired communities
+          - Hidden Markov Model based ASR for Real-time Speech Recognition
 
 
 #experiences:
