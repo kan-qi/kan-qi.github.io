@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="https://jekyll-themes.com">
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
@@ -56,3 +57,21 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 ## License
 
 This project is licensed under the [MIT license](LICENSE.txt).
+=======
+### Hi there 👋
+
+<!--
+**kan-qi/kan-qi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> e887ebecf2ce2dc14960aca662f00fc632fcc160
