@@ -40,17 +40,17 @@ news:
           title: Defended My PhD Thesis - Incremental Effort Estimation via Transaction Analysis 
 
 education:
-    - degree: Ph.D.
+    - degree: Ph.D. in Computer Science
       university: University of Southern California
       time: 2015 - 2020
       details: Computer Science
 
-    - degree: Master Degree
+    - degree: M.Sc. in Computer Science
       university: University of Southern California
       time: 2013 - 2015
       details: Computer Science
     
-    - degree: Bachelor Degree
+    - degree: B.Sc. in Computer Science
       university: Changchun University
       time: 2009 - 2013
       details: Computer Science
@@ -58,7 +58,7 @@ education:
 
 educationcomplete:
 
-    - degree: PhD in Computer Science
+    - degree: Ph.D. in Computer Science
       university: University of Southern California
       time: 2015 - 2021
       details: |
@@ -68,13 +68,13 @@ educationcomplete:
           - Software Development Effort Estimation and Prediction
           - Markov Chain Monte Carlo Methods for Accuracy Optimization
 
-    - degree: Master in Computer Science
+    - degree: M.Sc. in Computer Science
       university: University of Southern California
       time: 2013 - 2015
       details: |
-        Master degree in Computer Science
+      
     
-    - degree: Bachelor in Computer Science
+    - degree: B.Sc. in Computer Science
       university: Changchun University
       time: 2009 - 2013
       details: |
