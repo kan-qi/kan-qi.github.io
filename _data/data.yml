@@ -28,7 +28,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a PhD student at University of Southern California. My primary research work at USC is automated software architectural complexity analysis of mobile and web applications. Before my PhD study, I obtained my MS degree from University of Southern California and my BS degree from Changchun University, both in computer science. 
+      I am currently a PhD student at University of Southern California. My primary research work at USC is automated software architectural complexity analysis of mobile and web applications. Before my PhD study, I obtained my MS degree from University of Southern California and my BS degree from Changchun University, both in computer science. 
 
 news:
     title: News
@@ -40,20 +40,20 @@ news:
           title: Defended My PhD Thesis - Incremental Effort Estimation via Transaction Analysis 
 
 education:
-    - degree: PhD in Computer Science
+    - degree: Ph.D.
       university: University of Southern California
       time: 2015 - 2020
-      details: |
+      details: Computer Science
 
     - degree: Master Degree
       university: University of Southern California
       time: 2013 - 2015
-      details: |
+      details: Computer Science
     
     - degree: Bachelor Degree
       university: Changchun University
       time: 2009 - 2013
-      details: |
+      details: Computer Science
 
 
 educationcomplete:
@@ -68,13 +68,13 @@ educationcomplete:
           - Software Development Effort Estimation and Prediction
           - Markov Chain Monte Carlo Methods for Accuracy Optimization
 
-    - degree: Master Degree in Computer Science
+    - degree: Master in Computer Science
       university: University of Southern California
       time: 2013 - 2015
       details: |
         Master degree in Computer Science
     
-    - degree: Bachelor Degree in Computer Science
+    - degree: Bachelor in Computer Science
       university: Changchun University
       time: 2009 - 2013
       details: |
