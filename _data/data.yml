@@ -42,15 +42,15 @@ news:
 education:
     - degree: Ph.D. in Computer Science
       university: University of Southern California
-      time: 2015 - 2020
+      time: 2015 - 2021
       details: Computer Science
 
-    - degree: M.Sc. in Computer Science
+    - degree: M.S. in Computer Science
       university: University of Southern California
       time: 2013 - 2015
       details: Computer Science
     
-    - degree: B.Sc. in Computer Science
+    - degree: B.S. in Computer Science
       university: Changchun University
       time: 2009 - 2013
       details: Computer Science
@@ -68,23 +68,23 @@ educationcomplete:
           - Software Development Effort Estimation and Prediction
           - Markov Chain Monte Carlo Methods for Accuracy Optimization
 
-    - degree: M.Sc. in Computer Science
+    - degree: M.S. in Computer Science
       university: University of Southern California
       time: 2013 - 2015
       details: |
 
     
-    - degree: B.Sc. in Computer Science
+    - degree: B.S. in Computer Science
       university: Changchun University
       time: 2009 - 2013
       details: |
-        Supportive pervasive computing for hearing impaired communities
+        Supportive Pervasive Computing for Hearing Impaired Communities
           - Hidden Markov Model based ASR for Real-time Speech Recognition
 
 
 experiences:
     - role: Software Engineer Intern
-      time: 08/2014 - 08/2015
+      time: 08/2014 - 05/2017
       company: Rufus Labs, Los Angeles
       details: |
         
@@ -96,8 +96,10 @@ experiences:
       company: VResorts, Los Angeles
       details: |
         
-        - Designed and implemented a tracking algorithm utilizing GPS and Wi-Fi signals; Participated in the field testing of notification delivery accuracy and power consumption of Android smartphones; 
-        - Developed microservices to deliver the location-based advertisement data as push notifications; Optimized the performance of the Android client using AsyncTasks and cache pre-fetching.
+        - Designed and implemented a tracking algorithm utilizing GPS and Wi-Fi signals.
+        - Participated in the field testing of notification delivery accuracy and power consumption of Android smartphones.
+        - Developed microservices to deliver the location-based advertisement data as push notifications.
+        - Optimized the performance of the Android client using AsyncTasks and cache pre-fetching.
   
     #- role: Senior Software Engineer
       #time: 2014 - 2015
@@ -159,7 +161,7 @@ publications:
       
 
     papers:
-      - title: "#1 Effort Estimation of Open Source Android Projects via Transaction Analysis"
+      - title: -"Effort Estimation of Open Source Android Projects via Transaction Analysis"
         authors: Kan Qi, Barry Boehm
         conference: Journal of Software - Evolution and Process (JSEP 2020)
 
