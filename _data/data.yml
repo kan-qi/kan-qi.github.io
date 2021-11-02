@@ -102,32 +102,6 @@ experiences:
         - Participated in the field testing of notification delivery accuracy and power consumption of Android smartphones.
         - Developed microservices to deliver the location-based advertisement data as push notifications.
         - Optimized the performance of the Android client using AsyncTasks and cache pre-fetching.
-  
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
-
-    #- role: UI Developer
-      #time: 2012 - 2014
-      #company: Amazon, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
 
 #projects:
     #title: Projects
@@ -165,35 +139,35 @@ publications:
     papers:
       - title: "Effort Estimation of Open Source Android Projects via Transaction Analysis"
         authors: Kan Qi, Barry Boehm
-        conference: Journal of Software - Evolution and Process (JSEP 2020)
+        conference: Journal of Software - Evolution and Process (JSEP 2020) [<a href="./assets/files/jsep_2020_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/TranX" target="_blank" rel="nofollow">Repo</a>]
 
       - title: "Process-driven Incremental Effort Estimation (Best Paper Award Runner-up)"
         authors: Kan Qi, Barry Boehm
-        conference: International Conference on Software and Systems Process (ICSSP 2019)
+        conference: International Conference on Software and Systems Process (ICSSP 2019) [<a href="./assets/files/icssp_2019_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/SDEffortPredictionBenchmark" target="_blank" rel="nofollow">Repo</a>]
 
       - title: "Calibrating Use Case Points using Bayesian Analysis"
         authors: Kan Qi, Anandi Hira, Elaine Venson, Barry Boehm
-        conference: International Symposium on Empirical Software Engineering and Measurement (ESEM 2018)
+        conference: International Symposium on Empirical Software Engineering and Measurement (ESEM 2018) [<a href="./assets/files/esem_2018_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/SDEffortPredictionBenchmark" target="_blank" rel="nofollow">Repo</a>]
 
       - title: "UMLx: A UML Diagram Analytic Tool for Software Management Decisions (Poster Paper)"
         authors: Kan Qi, Barry Boehm
-        conference: International Conference on Software Engineering (ICSE 2018)
+        conference: International Conference on Software Engineering (ICSE 2018) [<a href="./assets/files/icse_2018_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="./assets/files/icse_2018_poster_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Poster</a>] [<a href="https://github.com/kan-qi/UMLx" target="_blank" rel="nofollow">Repo</a>]
 
       - title: "Detailed Use Case Points (DUCPs): A Size Metric Automatically Countable from Sequence and Class Diagrams"
         authors: Kan Qi, Barry Boehm
-        conference: International Workshop on Modelling in Software Engineering (MISE 2018)
+        conference: International Workshop on Modelling in Software Engineering (MISE 2018) [<a href="./assets/files/mise_2018_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="./assets/files/icse_2018_poster_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Poster</a>] [<a href="https://github.com/kan-qi/UMLx" target="_blank" rel="nofollow">Repo</a>]
 
       - title: "The Parallel Agile Process: Applying Parallel Processing Techniques to Software Engineering"
         authors: Doug Rosenberg, Barry Boehm, Bo Wang, Kan Qi
-        conference: Journal of Software - Evolution and Process (JSEP 2018)
+        conference: Journal of Software - Evolution and Process (JSEP 2018) [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2144" target="_blank" rel="nofollow">Link</a>] 
 
       - title: "A Light-weight Incremental Effort Estimation Model for Use Case Driven Projects"
         authors: Kan Qi, Barry Boehm
-        conference: Software Technology Conference (STC 2017)
+        conference: Software Technology Conference (STC 2017) [<a href="./assets/files/stc_2017_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] 
 
       - title: "Rapid, Evolutionary, Reliable, Scalable System and Software Development: The Resilient Agile Process (Best Paper Award)"
         authors: Doug Rosenberg, Barry Boehm, Bo Wang, Kan Qi
-        conference: International Conference on Software and Systems Process (ICSSP 2017)
+        conference: International Conference on Software and Systems Process (ICSSP 2017) [<a href="https://dl.acm.org/doi/abs/10.1145/3084100.3084107" target="_blank" rel="nofollow">Link</a>] 
 
 skills:
     title: Skills &amp; Proficiency
