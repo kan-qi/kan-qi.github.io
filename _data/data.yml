@@ -26,7 +26,7 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       I am currently a PhD student at University of Southern California, advised by Prof. <a href="https://en.wikipedia.org/wiki/Barry_Boehm" target="_blank" rel="nofollow">Barry Boehm</a>. My primary research work at USC is automated software architectural complexity analysis of mobile and web applications using innovative machine learning methods. Before my PhD study, I obtained my MS degree from University of Southern California and my BS degree from Changchun University, both in computer science. 
 
@@ -139,7 +139,7 @@ publications:
     papers:
       - title: "Effort Estimation of Open Source Android Projects via Transaction Analysis"
         authors: Kan Qi, Barry Boehm
-        conference: Journal of Software - Evolution and Process (JSEP 2020) [<a href="./assets/files/jsep_2020_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/TranX" target="_blank" rel="nofollow">Repo</a>]
+        conference: Journal of Software - Evolution and Process (JSEP 2020) [<a href="./assets/files/jsep_2020_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/TranX" target="_blank" rel="nofollow">Repo</a>] [<a href="http://conneffect.com/TranX" target="_blank" rel="nofollow">Demo</a>]
 
       - title: "Process-driven Incremental Effort Estimation (Best Paper Award Runner-up)"
         authors: Kan Qi, Barry Boehm
@@ -151,11 +151,11 @@ publications:
 
       - title: "UMLx: A UML Diagram Analytic Tool for Software Management Decisions (Poster Paper)"
         authors: Kan Qi, Barry Boehm
-        conference: International Conference on Software Engineering (ICSE 2018) [<a href="./assets/files/icse_2018_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="./assets/files/icse_2018_poster_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Poster</a>] [<a href="https://github.com/kan-qi/UMLx" target="_blank" rel="nofollow">Repo</a>]
+        conference: International Conference on Software Engineering (ICSE 2018) [<a href="./assets/files/icse_2018_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="./assets/files/icse_2018_poster_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Poster</a>] [<a href="https://github.com/kan-qi/UMLx" target="_blank" rel="nofollow">Repo</a>] [<a href="http://conneffect.com/UMLx" target="_blank" rel="nofollow">Demo</a>]
 
       - title: "Detailed Use Case Points (DUCPs): A Size Metric Automatically Countable from Sequence and Class Diagrams"
         authors: Kan Qi, Barry Boehm
-        conference: International Workshop on Modelling in Software Engineering (MISE 2018) [<a href="./assets/files/mise_2018_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="./assets/files/icse_2018_poster_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Poster</a>] [<a href="https://github.com/kan-qi/UMLx" target="_blank" rel="nofollow">Repo</a>]
+        conference: International Workshop on Modelling in Software Engineering (MISE 2018) [<a href="./assets/files/mise_2018_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="./assets/files/icse_2018_poster_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Poster</a>] [<a href="https://github.com/kan-qi/UMLx" target="_blank" rel="nofollow">Repo</a>] [<a href="http://conneffect.com/UMLx" target="_blank" rel="nofollow">Demo</a>]
 
       - title: "The Parallel Agile Process: Applying Parallel Processing Techniques to Software Engineering"
         authors: Doug Rosenberg, Barry Boehm, Bo Wang, Kan Qi
