@@ -143,7 +143,7 @@ publications:
 
       - title: "Process-driven Incremental Effort Estimation (Best Paper Award Runner-up)"
         authors: Kan Qi, Barry Boehm
-        conference: International Conference on Software and Systems Process (ICSSP 2019) [<a href="./assets/files/icssp_2019_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/SDEffortPredictionBenchmark" target="_blank" rel="nofollow">Repo</a>]
+        conference: International Conference on Software and Systems Process (ICSSP 2019) [<a href="./assets/files/icssp_2019_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/SDEffortPredictionBenchmark" target="_blank" rel="nofollow">Repo</a>] [<a href="http://conneffect.com/accuracyConfidenceEvaluation" target="_blank" rel="nofollow">Demo</a>]
 
       - title: "Calibrating Use Case Points using Bayesian Analysis"
         authors: Kan Qi, Anandi Hira, Elaine Venson, Barry Boehm
