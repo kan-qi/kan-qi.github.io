@@ -90,7 +90,7 @@ experiences:
         
         - Developed network protocols and Android system services to reliably distribute notifications to the smart watch devices.
         - Developed cloud services to push system updates from AWS servers to the smart watch devices.
-        - Developed custom launcher, apps drawer, system setting apps to provide unique user-experience for smart watch users.
+        - Developed custom launcher, apps drawer, system setting apps to provide unique user-experience for the smart watch users.
 
   
     - role: Software Engineer Intern
@@ -99,7 +99,6 @@ experiences:
       details: |
         
         - Designed and implemented a tracking algorithm utilizing GPS and Wi-Fi signals.
-        - Participated in the field testing of notification delivery accuracy and power consumption of Android smartphones.
         - Developed microservices to deliver the location-based advertisement data as push notifications.
         - Optimized the performance of the Android client using AsyncTasks and cache pre-fetching.
 
