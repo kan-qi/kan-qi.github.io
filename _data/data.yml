@@ -146,7 +146,7 @@ publications:
 
       - title: "Calibrating Use Case Points using Bayesian Analysis"
         authors: Kan Qi, Anandi Hira, Elaine Venson, Barry Boehm
-        conference: International Symposium on Empirical Software Engineering and Measurement (ESEM 2018) [<a href="./assets/files/esem_2018_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/SDEffortPredictionBenchmark" target="_blank" rel="nofollow">Repo</a>]
+        conference: International Symposium on Empirical Software Engineering and Measurement (ESEM 2018) [<a href="./assets/files/esem_2018_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/SDEffortPredictionBenchmark" target="_blank" rel="nofollow">Repo</a>] [<a href="http://conneffect.com/accuracyConfidenceEvaluation" target="_blank" rel="nofollow">Demo</a>]
 
       - title: "UMLx: A UML Diagram Analytic Tool for Software Management Decisions (Poster Paper)"
         authors: Kan Qi, Barry Boehm
