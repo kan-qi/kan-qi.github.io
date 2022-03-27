@@ -28,7 +28,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am currently a PhD student at University of Southern California, advised by Prof. <a href="https://en.wikipedia.org/wiki/Barry_Boehm" target="_blank" rel="nofollow">Barry Boehm</a>. My primary research work at USC is automated software architectural complexity analysis of mobile and web applications using innovative machine learning methods. Before my PhD study, I obtained my MS degree from University of Southern California and my BS degree from Changchun University, both in computer science. 
+      I am currently a PhD student at University of Southern California, advised by <a href="https://en.wikipedia.org/wiki/Barry_Boehm" target="_blank" rel="nofollow">Prof. Barry Boehm</a>. My primary research work at USC is automated transaction analysis of software systems and applications. Before my PhD study, I obtained my MS degree from University of Southern California and my BS degree from Changchun University, both in computer science. 
 
 news:
     title: News
@@ -64,7 +64,7 @@ educationcomplete:
       details: |
         Incremental Effort Estimation via Transaction Analysis
 
-          - Automated Software Architecture Analysis
+          - Automated Software Transaction Analysis
           - Software Development Effort Estimation and Prediction
           - Markov Chain Monte Carlo Methods for Accuracy Optimization
 
