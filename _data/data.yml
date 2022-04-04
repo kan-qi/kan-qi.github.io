@@ -88,8 +88,8 @@ experiences:
       company: Rufus Labs, Los Angeles
       details: |
         
-        - Developed network protocols and Android system services to reliably distribute notifications to the smart watch devices.
-        - Developed cloud services to push system updates from AWS servers to the smart watch devices.
+        - Developed scalable cloud services to push system updates from AWS servers to the smart watch devices.
+        - Developed connectivity infrastructure, including network protocols and Android system services, to reliably distribute notifications among the smart watch devices.
         - Developed custom launcher, apps drawer, system setting apps to provide unique user-experience for the smart watch users.
 
   
