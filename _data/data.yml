@@ -145,7 +145,7 @@ publications:
         authors: Kan Qi, Barry Boehm
         conference: Journal of Software - Evolution and Process (JSEP 2020) [<a href="./assets/files/jsep_2020_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/TranX" target="_blank" rel="nofollow">Repo</a>] [<a href="http://conneffect.com/TranX" target="_blank" rel="nofollow">Demo</a>]
 
-      - title: "Process-driven Incremental Effort Estimation <a href="./assets/files/icssp_2019_kan_qi_preprint.pdf" target="_blank" rel="nofollow">(Best Paper Award Runner-up)</a>"
+      - title: "Process-driven Incremental Effort Estimation (Best Paper Award Runner-up)"
         authors: Kan Qi, Barry Boehm
         conference: International Conference on Software and Systems Process (ICSSP 2019) [<a href="./assets/files/icssp_2019_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] [<a href="https://github.com/kan-qi/SDEffortPredictionBenchmark" target="_blank" rel="nofollow">Repo</a>] [<a href="http://conneffect.com/accuracyConfidenceEvaluation" target="_blank" rel="nofollow">Demo</a>]
 
@@ -169,7 +169,7 @@ publications:
         authors: Kan Qi, Barry Boehm
         conference: Software Technology Conference (STC 2017) [<a href="./assets/files/stc_2017_kan_qi_preprint.pdf" target="_blank" rel="nofollow">Paper</a>] 
 
-      - title: "Rapid, Evolutionary, Reliable, Scalable System and Software Development: The Resilient Agile Process <a href="https://dl.acm.org/doi/abs/10.1145/3084100.3084107" target="_blank" rel="nofollow">(Best Paper Award)</a>" 
+      - title: "Rapid, Evolutionary, Reliable, Scalable System and Software Development: The Resilient Agile Process (Best Paper Award)" 
         authors: Doug Rosenberg, Barry Boehm, Bo Wang, Kan Qi
         conference: International Conference on Software and Systems Process (ICSSP 2017) [<a href="https://dl.acm.org/doi/abs/10.1145/3084100.3084107" target="_blank" rel="nofollow">Link</a>] 
 
