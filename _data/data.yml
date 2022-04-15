@@ -68,16 +68,6 @@ experiences:
         - Developed the connectivity infrastructure, including network protocols and Android system services, to reliably distribute notifications among the smart watch devices.
         - Developed custom launcher, apps drawer, system setting apps to provide unique user-experience for the smart watch users.
 
-  
-    - role: Software Engineer Intern
-      time: 02/2014 - 05/2014
-      company: VResorts, Los Angeles
-      details: |
-        
-        - Designed and implemented a tracking algorithm utilizing GPS and Wi-Fi signals.
-        - Developed microservices to deliver the location-based advertisement data as push notifications.
-        - Optimized the performance of the Android client using AsyncTasks and cache pre-fetching.
-
 
 
 
