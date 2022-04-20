@@ -27,7 +27,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am currently a software engineer at Rufus Labs, developing the next generation wearable technologies and productivity platform for smart warehousing and supply chain.
+      I am currently a software engineer at Rufus Labs, developing wearable technologies and productivity platform for smart warehousing and supply chain.
 
       Before joining Rufus Labs, I received my PhD degree in computer science from University of Southern California, advised by Prof. Barry Boehm. My primary research work at USC is automated transaction analysis of software systems and applications. Before my PhD study, I obtained my MS degree from University of Southern California and my BS degree from Changchun University, both in computer science. 
 
@@ -56,7 +56,7 @@ experiences:
       company: Rufus Labs, Los Angeles
       details: |
         
-        - Developing the next generation wearable technologies and productivity platform for smart warehousing and supply chain.
+        - Developing wearable technologies and productivity platform for smart warehousing and supply chain.
 
 
     - role: Software Engineer Intern
@@ -64,9 +64,8 @@ experiences:
       company: Rufus Labs, Los Angeles
       details: |
         
-        - Developed scalable cloud services to push system updates from AWS servers to the smart wearable devices.
+        - Developed the cloud services to push system updates from AWS servers to the smart wearable devices.
         - Developed the connectivity infrastructure, including network protocols and Android system services, to reliably distribute notifications among the smart wearable devices.
-        - Developed custom launcher, apps drawer, system setting apps to provide unique user experience for the wearable device users.
 
 
 
