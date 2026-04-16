@@ -64,8 +64,7 @@ experiences:
       company: Rufus Labs, Los Angeles
       details: |
         
-        - Developed cloud services to deliver system updates from AWS servers to the smart wearable devices.
-        - Developed the connectivity infrastructure, including network protocols and Android system services, to reliably distribute notifications among the smart wearable devices.
+        - Developed the connectivity infrastructure for smart wearable devices, including cloud services and network protocols, to reliably distribute notifications.
 
 
 
